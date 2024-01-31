@@ -1,0 +1,10 @@
+C:\Users\Kelvin Pilger\Downloads\ProjetosCSharp\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Kelvin Pilger\Downloads\ProjetosCSharp\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Kelvin Pilger\Downloads\ProjetosCSharp\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Kelvin Pilger\Downloads\ProjetosCSharp\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\Kelvin Pilger\Downloads\ProjetosCSharp\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Kelvin Pilger\Downloads\ProjetosCSharp\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\Kelvin Pilger\Downloads\ProjetosCSharp\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Kelvin Pilger\Downloads\ProjetosCSharp\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Kelvin Pilger\Downloads\ProjetosCSharp\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\Kelvin Pilger\Downloads\ProjetosCSharp\Calculadora\Calculadora\obj\Debug\Calculadora.formCalculadora.resources
